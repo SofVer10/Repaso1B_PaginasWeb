@@ -1,4 +1,4 @@
-// consultar la api de dragon ball utilizando fetch
+// consultar la api de Ricky and Morthy utilizando fetch
 
 const getRickandMorty = async () => {
     try {
